@@ -1,0 +1,205 @@
+{
+    "Prompts": [
+      {
+        "prompt": "Lance Stroll makes up places on first lap",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Turn 1 Crash",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Radio Message about bumpy track",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Lewis questions Mercedes Strategy",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Cowboy Hat in the Crowd",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Ted says hello to all the commentators",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Team Principal interview from the Pit Wall",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "It's Lights Out and Away we go!",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Ted Kravitz talks about Tyres",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Virtual Safety Car",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Full Safety Car",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Engine Failure",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Front Wing Damage",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Puncture",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Someone locks up",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Suspension Failure",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Ferrari Bad Strategy",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Someone disagrees with the strategy",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver tells Engineer to be quiet",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Yellow Flag",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Red Flag",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Teammate Contact",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Team Orders",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Speeding in the Pitlane",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Slow Stop",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver Spins",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver Hits the Wall",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Track Limits Warning",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Black and White Flag",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Box, Box",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver Swears on the Radio",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Grid Penalty",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Sub 2 Second Pitstop",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Helmet Cam",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "5 Second Time Penalty",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "10 Second Time Penalty",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Coded Message about Strategy",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Undercut Pays Off",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "No Further Investigation",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Overcut Pays Off",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Fan in a Costume",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Mention of a driver no longer racing",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Save Fuel Radio Message",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Pit Stop Error",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Onboard with all 20 Drivers",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Track Temperature Radio Message",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Celebrity in the Garage",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver insulting another driver",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Driver told to Push",
+        "category": "allRaces"
+      },
+      {
+        "prompt": "Verstappen / GP Argument",
+        "category": "allRaces"
+      }
+    ]
+  }
+  
