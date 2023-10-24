@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Grid rows={5} columns={5}/>
+      <Grid rows={3} columns={3}/>
     </div>
   );
 }

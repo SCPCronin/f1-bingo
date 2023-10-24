@@ -7,6 +7,6 @@ export const cellStyle: React.CSSProperties = {
 export const gridContainerStyle: React.CSSProperties = {
     display: 'flex',
     flexDirection: 'column', // Center vertically
-    alignItems: 'center', // Center horizontally
     marginTop: '5%',
+    width: "100%"
   };
