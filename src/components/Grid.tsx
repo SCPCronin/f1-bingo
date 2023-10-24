@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import { bingoCombinations } from '../data/constants';
+import { bingoCombinations3Rows } from '../data/constants';
 import { cellStyle, gridContainerStyle } from '../data/styles';
 import { generateListOfPrompts } from '../logic/utils'
 import { GridProps } from '../types/IGrid';
@@ -48,7 +48,7 @@ const Grid: React.FC<GridProps> = ({ rows, columns }) => {
   }
 
   const determineIfBingoIsReached = (): boolean => {
-    for (const array of bingoCombinations ) {
+    for (const array of bingoCombinations3Rows ) {
       if (determineIfBingoIsPresentOnRow(array)) {
         return true
       }

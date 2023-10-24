@@ -16,7 +16,6 @@ const Card: React.FC<CardProps> = ({ event, index, onCardClick }) => {
 
   const cardStyle: React.CSSProperties = {
     backgroundColor: eventOccurred ? 'green' : 'white',
-    padding: '20px',
     borderRadius: '5px',
     border: '1px solid #ccc',
     cursor: 'pointer',
