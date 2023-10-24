@@ -4,6 +4,7 @@ import { bingoCombinations3Rows } from '../data/constants';
 import { cellStyle, gridContainerStyle } from '../data/styles';
 import { generateListOfPrompts } from '../logic/utils'
 import { GridProps } from '../types/IGrid';
+import { unescape } from 'querystring';
 
 const Grid: React.FC<GridProps> = ({ rows, columns }) => {
 
@@ -11,11 +12,9 @@ const Grid: React.FC<GridProps> = ({ rows, columns }) => {
   // State
 
   const selectedGrid = [
-    [false, false, false, false, false],
-    [false, false, false, false, false],
-    [false, false, false, false, false],
-    [false, false, false, false, false],
-    [false, false, false, false, false],
+    [false, false, false],
+    [false, false, false],
+    [false, false, false],
   ];
 
   // Getters and Setters
@@ -34,8 +33,12 @@ const Grid: React.FC<GridProps> = ({ rows, columns }) => {
   }
 
   // Logic
-
-  const prompts = generateListOfPrompts();
+  
+  var prompts = JSON.parse(localStorage.getItem("prompts") as string) || generateListOfPrompts();
+  
+  if(!prompts) {
+    localStorage.setItem("prompts", JSON.stringify(prompts))
+  }
 
   const determineIfBingoIsPresentOnRow = (Indexes: number[]): boolean => {
     for (const index of Indexes) {
